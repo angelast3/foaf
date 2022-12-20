@@ -19,7 +19,7 @@
   foaf:mbox_sha1sum "531c1209e34914e440b7a89059f6ff7abe3373fc" ;
   foaf:phone <tel:070888669> ;
   foaf:workplaceHomepage <https://raw.githubusercontent.com/angelast3/foaf/master/ATS> ;
-  foaf:workInfoHomepage <https://raw.githubusercontent.com/angelast3/foaf/master/Junior Software Developer> ;
+  foaf:workInfoHomepage <https://raw.githubusercontent.com/angelast3/foaf/master/Junior_Software_Developer> ;
   foaf:schoolHomepage <https://raw.githubusercontent.com/angelast3/foaf/master/FINKI> ;
   foaf:knows [
     a foaf:Person ;
